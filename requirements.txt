@@ -1,0 +1,6 @@
+yfinance
+bs4
+nbformat
+pandas
+requests
+plotly
