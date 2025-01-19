@@ -60,8 +60,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Author
-[Abdullah Gondal]  
-[Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdullah-gondal-0369a72b5/))  
+[Abdullah Gondal]
 [99gondalabdullah@gmail.com]
 
 Feel free to contribute by opening a pull request or creating an issue!
